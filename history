@@ -1,0 +1,16 @@
+search log
+touch aa
+touch bb
+find py
+search wor
+search temp
+search work
+search pyt
+find aa
+find scl
+mkdir test
+mkdir hello
+
+rename main:.py
+delete
+search ra
